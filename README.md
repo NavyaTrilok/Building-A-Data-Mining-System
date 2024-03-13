@@ -8,3 +8,7 @@ Performed analysis on colon cancer dataset
 
 4.Computing the accuracies with Gini and Entropy
 
+Obtained accuracy scores of 0.995
+
+
+
